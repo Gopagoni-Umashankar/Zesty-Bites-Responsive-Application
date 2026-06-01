@@ -165,7 +165,7 @@ Through this project, I gained practical experience in:
 
 Java Full Stack Developer
 
-GitHub: https://github.com/Gopagoni-Umashankar-
+GitHub: https://github.com/Gopagoni-Umashankar
 
 LinkedIn: www.linkedin.com/in/gopagoni-umashankar
 
